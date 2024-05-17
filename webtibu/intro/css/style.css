@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{background-color: rgb(253, 253, 253);
+
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 80px;
+}
+.dotted
+#dotted
+
+.texto{
+    margin-top: 20px;
+    padding: 20px 0px 0px 0px ;
+    background-color: antiquewhite;
+}
+.contenedor{
+    border: 2px solid;
+    border-color:rgb(0, 0, 0); 
+    
+}
+.contenedor2{
+    border: 2px solid;
+    height: 700px;
+    margin-top: 30px;
+    width: 33%;
+    float: left;
+    margin-left: 3px;
+    
+}
+.table{
+    width: 400px;
+    border: 1px solid;
+}
+.contenedor3{ text-align: center;
+    border: 2px solid;
+    height: 700px;
+    margin-top: 30px;
+    width: 33%;
+    float: left;
+    margin-left: 3px;
+}
+.contenedor4{text-align: center;
+    border: 2px solid;
+    height: 700px;
+    margin-top: 30px;
+    width: 33%;
+    float: left;
+    margin-left: 3px;
+
+}
+.section{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 60px;
+    float: left;
+}
+.section2{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 25px;
+    float: left;
+
+}
+.section3{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 50px;
+    float: left;
+
+}
+.texto1{
+    margin-top: 150px;
+    padding: 1px;
+    margin-left: -250px;
+}
+#texto2{
+    margin-top: -70px;
+    padding: 1px;
+    margin-left: -250px;
+}
+#texto3{
+    margin-top: -3px;
+    padding: 1px;   
+    margin-left: -290px;
+}
+.idiomas{
+    text-align: center;
+    border: 2px solid;
+    height: 40px;
+    margin-top: 150px;
+    width: 39%;
+    float: left;
+    margin-left: 125px;
+    
+}
+
+.estudios{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 250px;
+    margin-left: 30px;
+    float: left;
+}
+.contenedor5{
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 60px;
+    margin-left: 150px;
+    float: left;
+}
+#nombreempresa{
+    margin-top: 150px;
+    margin-left: -100px;
+}
+#cargo{
+    margin-left: -100px;
+}
+#logros{
+    margin-left: -100px;
+}
+#Año{
+    margin-left: -100px;
+}
+#Stackteno{
+    margin-left: -100px;
+}
